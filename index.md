@@ -8,8 +8,4 @@ Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
 
 Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203
 
-Gillespie, T. (2006) Engineering a Principle: 'End-to-End' in the Design of the Internet. Social Studies of Science, Vol. 36, No. 3. Sage Publications
-
-Dourish, P. (2015) Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet. 5th Decennial Aarhus Conference on Critical Alternatives
-
 How to Build a Low-tech Internet, Low-Tech Magazine
