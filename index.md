@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Jack Landherr
+O’Hara 
+Information Studies 30
+26 June 2019
+Week 1 Blog
+After reading the 5 articles assigned for Information Studies 30 week one, I was easily drawn towards the first article, “Technology and ideology: The Case for the Telegraph” (Carey, 2006). My first impression after hearing his take on the telegraph and the importance of it in todays society was the printing press created by Johannes Gutenberg. I remember learning about the impact on society the printing press had such as people having the access to scriptures such as the bible in their own homes. I believe the printing press also changed how people communicated back then as information was more easily spread because of the printing press, similar to the telegraph. Casey also describes how the telegraph completely changed the way business was handled, as people were now able to purchase goods without ever having to see the good in person, this new phenomena also had an effect on prices as goods values were able to reach an equilibrium, causing the practice of hustling goods by buying goods at one price, then selling them at a higher price to disappear. The second article, “The Master Switch: The Rise and Fall of Information Empires”  (Wu, 2010), brought up the idea of how technological advancements experienced the inevitable cycle of open and closed. As the advancements become integral in society and exponentially expand, they then become roadblocked by industries and the government to create monopolies over these industries. This article also described the scenario in how an advancement that may be closed off and even forgotten or just simply mundane to society may be rediscovered and improved upon. An example of this scenario became evident to me in the article, “Low Tech Magazine: Doubts on Progress and Technology” (De Decker). In this article, De Decker whose main focus is on low tech network providers who can possibly service barren or isolated users through long range wifi “resembles the 18th century optical telegraph” (De Decker, P.12). Not only is this an example of forgotten closed technological advancements opened up again and improved upon, this also argues the point Carey was arguing for as the telegraph transcends any other technological advancement.
 
-You can use the [editor on GitHub](https://github.com/jacklandherr/JLandherr-Info/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jacklandherr/JLandherr-Info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Works Cited
+Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
+Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203
+Gillespie, T. (2006) Engineering a Principle: 'End-to-End' in the Design of the Internet. Social Studies of Science, Vol. 36, No. 3. Sage Publications
+Dourish, P. (2015) Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet. 5th Decennial Aarhus Conference on Critical Alternatives
+How to Build a Low-tech Internet, Low-Tech Magazine
