@@ -11,3 +11,5 @@ Carey, J. (2009). Technology and Ideology: The Case of the Telegraph
 Wu, T. (2010) The Master Switch: The Rise and Fall of Information Empires. Chapters 1 and 15, pages 3 -14, and 196-203
 
 How to Build a Low-tech Internet, Low-Tech Magazin
+
+[Week 3 Blog](Week-3-Blog.md)
