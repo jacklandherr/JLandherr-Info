@@ -29,4 +29,17 @@ Gillespie, T. (2006) Engineering a Principle: 'End-to-End' in the Design of the 
 Link to my Self Portrait
 [Self Portrait Project](https://jacklandherr.github.io/Jack-Self-Portrait/)
 
+###### Blog Week 4
+
+Today's society is largely based on social interactions, not only through conversation in the real world, but also on the internet through our interactions on apps such as social media and text message. One of the biggest issues that has arisen with technological advancements has been the infringement upon our social interactions, whether they be public or private, real world or artificial interactions. Our private behaviors on the internet are being analyzed as data for many beneficial and convenient reasons such as targeted ads, but what many people do not realize is that more data is being analyzed than necessary. As stated by Shoshana Zuboff in her video speech on surveillance capitalism, “an unnecessary amount of data surplus is being collected by the ‘big other’ to use.” The purpose of this data remains unknown but it is an infringement upon our privacy as devices such as your cell phone are listening to conversations that have long been private, for example a conversation with your pet, or “The decibel levels in your living room” (Zuboff). “Every device, smartphone, or piece of technology used today is a node to track and hunt down any and every piece of data companies and/or the government can get their hands on” (Zuboff). The collection of data may come as a benefit to society, as more specific data may lead to better government agendas. Data collected from our personal interactions of our everyday lives helps the government organize people, hopefully assisting them in the effort to create better infrastructure of society. Organization is the key to creating successful sociotechnical systems such as healthcare or education as the data collected may help them formulate better healthcare options for people who may not be well represented for the government to have been able to help them in the past (Norman Pg. 90). While data may help the government to create a more specific and beneficial political agenda for society to thrive off of, organizing people by infringing upon their private interactions alludes to a scary point in time, The Halocaust. In Bowker’s book “Sorting Things Out”, specifically chapter 6, Bowker uses the culture of South African in the mid 1900s to show how the government can easily abuse its power to organize people in a scary manner. Bowker talks of how in South Africa in the 1960S, the government separated and organized people by race, drawing vivid similarities to the halocaust. Being categorizable allows for the government to control a group of people with ease, which may in fact be the goal of the government in today's society as they continue to infringe upon our private interactions to possibly categorize to control us with ease.
+
+###### Works Cited
+
+Bowker, G. C., & Star, S. L. (1999). The case of race classification and reclassification under apartheid. Sorting things out: 
+
+Classification and its consequences, 195-225. Forum Privatheit 2018: Shoshana Zuboff keynote speech on surveillance capitalismhttps://www.youtube.com/watch?v=DeaSxCN2uw8
+
+Norman, Donald A., and Pieter Jan Stappers. (2015) "DesignX: complex sociotechnical systems." She Ji: The Journal of Design, Economics, and Innovation 1.2 83-106.
+
+
 
