@@ -50,5 +50,6 @@ As technological advancements continue to be produced and society advances along
 Gray, M. (2016) Your Job is About to Get Taskified Los Angeles Times
 
 Jackson, S. J. (2014). 11 Rethinking Repair. Media technologies: Essays on communication, materiality, and society, 221-39.
-Watch video: SBS Dateline, E-waste https://www.youtube.com/watch?v=dd_ZttK3PuM
+
+SBS Dateline, E-waste https://www.youtube.com/watch?v=dd_ZttK3PuM
 
